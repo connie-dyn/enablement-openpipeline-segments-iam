@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://verbose-eureka-69j5g5r6g7p34r-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://verbose-eureka-69j5g5r6g7p34r-30100.app.github.dev"  
