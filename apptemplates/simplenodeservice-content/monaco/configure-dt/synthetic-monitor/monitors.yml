@@ -3,7 +3,7 @@ configs:
   config:
     name: "Healthcheck ${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}"
     parameters:
-      baseUrl: "https://verbose-eureka-69j5g5r6g7p34r-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}"
+      baseUrl: "https://verbose-eureka-69j5g5r6g7p34r-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}"
       frequencyMin: "1"
       enabled: "true"
       geoLocation: "GEOLOCATION-3F7C50D0C9065578"
